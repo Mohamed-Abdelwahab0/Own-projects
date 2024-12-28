@@ -1,0 +1,71 @@
+- Most products ordered by females:
+
+WITH ProdCounter AS (
+  SELECT product, COUNT(*) AS product_count
+  FROM Salespractice1
+  GROUP BY product
+)
+
+SELECT MAX(ProdCounter.product), product_count, customer_gender
+FROM ProdCounter
+JOIN Salespractice1 ON ProdCounter.product = Salespractice1.product
+GROUP BY product_count, customer_gender
+ORDER BY product_count DESC;
+
+
+
+- Highest country make orders:
+
+SELECT country, MAX(order_quantity) AS highest_orders
+FROM Salespractice1
+GROUP BY country
+ORDER BY highest_orders DESC
+
+
+- Most customer age with highest number of orders:
+
+WITH customer_age_order_count AS (
+    SELECT Customer_Age, COUNT(order_quantity) AS order_count
+    FROM Salespractice1
+    GROUP BY Customer_Age
+)
+
+SELECT Customer_Age, order_count
+FROM customer_age_order_count
+WHERE order_count = (SELECT MAX(order_count) 
+FROM customer_age_order_count);
+
+
+- The year with the highest profit:
+
+SELECT year, MAX(profit) AS Highest_profit
+FROM Salespractice1
+GROUP BY year
+ORDER BY Highest_profit DESC;
+
+
+- The month with highest profit in all years:
+
+SELECT month,year,MAX(profit) AS max_profit_month
+FROM Salespractice1
+GROUP BY month,year
+ORDER BY max_profit_month DESC
+
+
+
+- The year with highest cost ever:
+
+SELECT year, SUM(cost) AS sum_cost_year
+FROM Salespractice1
+GROUP BY year
+ORDER BY sum_cost_year DESC
+
+
+
+
+
+
+
+
+
+
