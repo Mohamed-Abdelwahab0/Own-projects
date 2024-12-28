@@ -1,0 +1,532 @@
+Date,Day,Month,Year,Customer_Age,Age_Group,Customer_Gender,Country,State,Product,Order_Quantity,Unit_Cost,Unit_Price,Profit,Cost,Revenue
+17/01/14,17,January,2014,53,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,30,45,120,2250,1350,3600
+17/01/16,17,January,2016,53,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,29,45,120,2175,1305,3480
+11/06/16,11,June,2016,45,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,27,45,120,2025,1215,3240
+26/01/16,26,January,2016,35,Adults (35-64),F,United Kingdom,England,Hitch Rack - 4-Bike,28,45,120,2100,1260,3360
+23/09/15,23,September,2015,41,Adults (35-64),F,Germany,Hessen,Hitch Rack - 4-Bike,29,45,120,2175,1305,3480
+11/06/14,11,June,2014,45,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,26,45,120,1950,1170,3120
+23/09/13,23,September,2013,41,Adults (35-64),F,Germany,Hessen,Hitch Rack - 4-Bike,28,45,120,2100,1260,3360
+26/01/14,26,January,2014,35,Adults (35-64),F,United Kingdom,England,Hitch Rack - 4-Bike,26,45,120,1950,1170,3120
+25/06/14,25,June,2014,62,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,25,45,120,1875,1125,3000
+23/05/14,23,May,2014,47,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,24,45,120,1800,1080,2880
+17/08/13,17,August,2013,43,Adults (35-64),F,France,Moselle,Hitch Rack - 4-Bike,28,45,120,2100,1260,3360
+23/05/16,23,May,2016,47,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,23,45,120,1725,1035,2760
+17/08/15,17,August,2015,43,Adults (35-64),F,France,Moselle,Hitch Rack - 4-Bike,27,45,120,2025,1215,3240
+13/03/16,13,March,2016,48,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,22,45,120,1650,990,2640
+25/06/16,25,June,2016,62,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,22,45,120,1650,990,2640
+28/06/16,28,June,2016,40,Adults (35-64),F,Germany,Nordrhein-Westfalen,Hitch Rack - 4-Bike,25,45,120,1875,1125,3000
+13/03/14,13,March,2014,48,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,20,45,120,1500,900,2400
+14/12/13,14,December,2013,59,Adults (35-64),F,United States,Washington,Hitch Rack - 4-Bike,30,45,120,2250,1350,3600
+14/12/15,14,December,2015,59,Adults (35-64),F,United States,Washington,Hitch Rack - 4-Bike,30,45,120,2250,1350,3600
+11/06/14,11,June,2014,37,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,19,45,120,1425,855,2280
+28/06/14,28,June,2014,40,Adults (35-64),F,Germany,Nordrhein-Westfalen,Hitch Rack - 4-Bike,23,45,120,1725,1035,2760
+08/05/14,8,May,2014,35,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,18,45,120,1350,810,2160
+11/06/16,11,June,2016,37,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,17,45,120,1275,765,2040
+04/05/14,4,May,2014,47,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,17,45,120,1275,765,2040
+19/12/15,19,December,2015,45,Adults (35-64),F,France,Seine (Paris),Hitch Rack - 4-Bike,22,45,120,1650,990,2640
+04/05/16,4,May,2016,47,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,16,45,120,1200,720,1920
+19/12/13,19,December,2013,45,Adults (35-64),F,France,Seine (Paris),Hitch Rack - 4-Bike,21,45,120,1575,945,2520
+08/05/16,8,May,2016,35,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,15,45,120,1125,675,1800
+19/12/15,19,December,2015,38,Adults (35-64),F,Canada,British Columbia,All-Purpose Bike Stand,11,59,159,1100,649,1749
+07/12/15,7,December,2015,60,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,31,21,55,1054,651,1705
+04/05/16,4,May,2016,42,Adults (35-64),F,France,Nord,Hitch Rack - 4-Bike,17,45,120,1275,765,2040
+19/02/16,19,February,2016,47,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,30,21,55,1020,630,1650
+21/04/16,21,April,2016,53,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,30,21,55,1020,630,1650
+06/01/14,6,January,2014,45,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,30,21,55,1020,630,1650
+10/03/14,10,March,2014,43,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,30,21,55,1020,630,1650
+10/03/16,10,March,2016,43,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,30,21,55,1020,630,1650
+22/07/16,22,July,2016,36,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,30,21,55,1020,630,1650
+19/12/13,19,December,2013,38,Adults (35-64),F,Canada,British Columbia,All-Purpose Bike Stand,10,59,159,1000,590,1590
+27/08/13,27,August,2013,54,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,29,21,55,986,609,1595
+07/12/13,7,December,2013,60,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,29,21,55,986,609,1595
+03/10/13,3,October,2013,51,Adults (35-64),F,United States,California,All-Purpose Bike Stand,10,59,159,1000,590,1590
+30/01/14,30,January,2014,44,Adults (35-64),F,United States,California,All-Purpose Bike Stand,10,59,159,1000,590,1590
+03/10/15,3,October,2015,51,Adults (35-64),F,United States,California,All-Purpose Bike Stand,10,59,159,1000,590,1590
+21/02/14,21,February,2014,40,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,29,21,55,986,609,1595
+27/05/14,27,May,2014,50,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,29,21,55,986,609,1595
+30/06/14,30,June,2014,53,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,30,21,55,1020,630,1650
+04/05/14,4,May,2014,42,Adults (35-64),F,France,Nord,Hitch Rack - 4-Bike,16,45,120,1200,720,1920
+06/05/14,6,May,2014,46,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,13,45,120,975,585,1560
+10/07/14,10,July,2014,38,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,13,45,120,975,585,1560
+19/02/14,19,February,2014,47,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+21/04/14,21,April,2014,53,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+27/08/15,27,August,2015,54,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+22/07/14,22,July,2014,36,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+06/01/16,6,January,2016,45,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+21/02/16,21,February,2016,40,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+27/05/16,27,May,2016,50,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+08/05/16,8,May,2016,36,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+30/06/16,30,June,2016,53,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+10/01/14,10,January,2014,63,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+31/01/14,31,January,2014,49,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+17/06/14,17,June,2014,41,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+31/01/16,31,January,2016,49,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+17/06/16,17,June,2016,41,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+27/05/16,27,May,2016,50,Adults (35-64),F,Canada,British Columbia,All-Purpose Bike Stand,9,59,159,900,531,1431
+10/03/16,10,March,2016,60,Adults (35-64),F,France,Nord,All-Purpose Bike Stand,11,59,159,1100,649,1749
+23/10/15,23,October,2015,46,Adults (35-64),F,United States,California,All-Purpose Bike Stand,9,59,159,900,531,1431
+15/11/15,15,November,2015,64,Adults (35-64),F,United States,California,All-Purpose Bike Stand,9,59,159,900,531,1431
+30/01/16,30,January,2016,44,Adults (35-64),F,United States,California,All-Purpose Bike Stand,9,59,159,900,531,1431
+10/07/16,10,July,2016,38,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,12,45,120,900,540,1440
+10/01/16,10,January,2016,63,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,26,21,55,884,546,1430
+05/06/14,5,June,2014,39,Adults (35-64),F,United Kingdom,England,All-Purpose Bike Stand,9,59,159,900,531,1431
+22/12/13,22,December,2013,39,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+08/05/14,8,May,2014,36,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+02/03/16,2,March,2016,53,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,26,21,55,884,546,1430
+27/02/16,27,February,2016,42,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+06/09/13,6,September,2013,45,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,11,45,120,825,495,1320
+16/11/15,16,November,2015,35,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,30,21,55,1020,630,1650
+02/08/13,2,August,2013,52,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+25/08/13,25,August,2013,38,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+25/02/14,25,February,2014,47,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+25/08/15,25,August,2015,38,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+31/03/14,31,March,2014,43,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,11,45,120,825,495,1320
+31/03/16,31,March,2016,43,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,11,45,120,825,495,1320
+09/09/13,9,September,2013,44,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+17/07/13,17,July,2013,41,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+11/03/14,11,March,2014,60,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+17/07/15,17,July,2015,41,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+11/03/16,11,March,2016,60,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+14/06/16,14,June,2016,61,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+08/09/15,8,September,2015,38,Adults (35-64),F,Canada,British Columbia,All-Purpose Bike Stand,8,59,159,800,472,1272
+23/10/13,23,October,2013,46,Adults (35-64),F,United States,California,All-Purpose Bike Stand,8,59,159,800,472,1272
+15/11/13,15,November,2013,64,Adults (35-64),F,United States,California,All-Purpose Bike Stand,8,59,159,800,472,1272
+20/12/13,20,December,2013,35,Adults (35-64),F,United States,California,All-Purpose Bike Stand,8,59,159,800,472,1272
+08/08/13,8,August,2013,48,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,23,21,55,782,483,1265
+16/10/13,16,October,2013,41,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,23,21,55,782,483,1265
+22/12/15,22,December,2015,39,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,23,21,55,782,483,1265
+25/02/16,25,February,2016,47,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,23,21,55,782,483,1265
+02/03/14,2,March,2014,53,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+27/02/14,27,February,2014,42,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,23,21,55,782,483,1265
+16/11/13,16,November,2013,35,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+02/11/15,2,November,2015,49,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+17/08/13,17,August,2013,36,Adults (35-64),F,United Kingdom,England,All-Purpose Bike Stand,8,59,159,800,472,1272
+09/03/16,9,March,2016,59,Adults (35-64),F,United Kingdom,England,All-Purpose Bike Stand,8,59,159,800,472,1272
+02/05/14,2,May,2014,52,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,10,45,120,750,450,1200
+18/07/16,18,July,2016,40,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,10,45,120,750,450,1200
+18/08/13,18,August,2013,47,Adults (35-64),F,United States,Oregon,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+30/05/14,30,May,2014,63,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,22,21,55,748,462,1210
+16/10/15,16,October,2015,41,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,22,21,55,748,462,1210
+09/09/15,9,September,2015,44,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,23,21,55,782,483,1265
+13/07/13,13,July,2013,43,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,10,45,120,750,450,1200
+28/06/14,28,June,2014,38,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,10,45,120,750,450,1200
+13/07/15,13,July,2015,43,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,10,45,120,750,450,1200
+06/05/16,6,May,2016,46,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,10,45,120,750,450,1200
+02/11/13,2,November,2013,49,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+28/11/15,28,November,2015,42,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+06/03/16,6,March,2016,38,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+01/03/14,1,March,2014,49,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,22,21,55,748,462,1210
+09/03/14,9,March,2014,42,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,22,21,55,748,462,1210
+14/06/14,14,June,2014,61,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,22,21,55,748,462,1210
+01/03/16,1,March,2016,49,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,22,21,55,748,462,1210
+10/03/14,10,March,2014,60,Adults (35-64),F,France,Nord,All-Purpose Bike Stand,9,59,159,900,531,1431
+03/02/16,3,February,2016,39,Adults (35-64),F,France,Moselle,Hydration Pack - 70 oz.,26,21,55,884,546,1430
+02/08/15,2,August,2015,52,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+08/08/15,8,August,2015,48,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+16/08/15,16,August,2015,42,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+01/02/16,1,February,2016,49,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+27/05/14,27,May,2014,47,Adults (35-64),F,France,Seine Saint Denis,Hydration Pack - 70 oz.,29,21,55,986,609,1595
+24/09/15,24,September,2015,37,Adults (35-64),F,Australia,South Australia,Hydration Pack - 70 oz.,29,21,55,986,609,1595
+06/03/14,6,March,2014,38,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,26,21,55,884,546,1430
+16/01/16,16,January,2016,52,Adults (35-64),F,Canada,British Columbia,HL Mountain Tire,32,13,35,704,416,1120
+03/04/16,3,April,2016,56,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",32,13,35,704,416,1120
+05/06/16,5,June,2016,55,Adults (35-64),F,Germany,Brandenburg,"Sport-100 Helmet, Blue",32,13,35,704,416,1120
+01/02/14,1,February,2014,36,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+10/05/14,10,May,2014,46,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+09/03/16,9,March,2016,42,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+13/01/14,13,January,2014,46,Adults (35-64),F,Canada,British Columbia,All-Purpose Bike Stand,7,59,159,700,413,1113
+27/05/14,27,May,2014,50,Adults (35-64),F,Canada,British Columbia,All-Purpose Bike Stand,7,59,159,700,413,1113
+13/01/16,13,January,2016,46,Adults (35-64),F,Canada,British Columbia,All-Purpose Bike Stand,7,59,159,700,413,1113
+03/02/14,3,February,2014,39,Adults (35-64),F,France,Moselle,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+15/11/13,15,November,2013,45,Adults (35-64),F,United States,Oregon,Hydration Pack - 70 oz.,26,21,55,884,546,1430
+10/07/15,10,July,2015,44,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",32,13,35,704,416,1120
+17/11/15,17,November,2015,53,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",32,13,35,704,416,1120
+12/12/15,12,December,2015,41,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",32,13,35,704,416,1120
+15/04/16,15,April,2016,49,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",32,13,35,704,416,1120
+20/07/16,20,July,2016,46,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",32,13,35,704,416,1120
+04/06/14,4,June,2014,60,Adults (35-64),F,Australia,Queensland,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+22/09/13,22,September,2013,61,Adults (35-64),F,United States,California,All-Purpose Bike Stand,7,59,159,700,413,1113
+02/11/13,2,November,2013,41,Adults (35-64),F,United States,California,All-Purpose Bike Stand,7,59,159,700,413,1113
+28/01/14,28,January,2014,36,Adults (35-64),F,United States,California,All-Purpose Bike Stand,7,59,159,700,413,1113
+29/08/15,29,August,2015,40,Adults (35-64),F,United States,California,All-Purpose Bike Stand,7,59,159,700,413,1113
+24/09/13,24,September,2013,37,Adults (35-64),F,Australia,South Australia,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+27/05/16,27,May,2016,47,Adults (35-64),F,France,Seine Saint Denis,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+28/11/13,28,November,2013,42,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+09/12/15,9,December,2015,35,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",31,13,35,682,403,1085
+13/02/16,13,February,2016,39,Adults (35-64),F,Australia,Queensland,All-Purpose Bike Stand,9,59,159,900,531,1431
+08/04/16,8,April,2016,41,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Red",31,13,35,682,403,1085
+16/05/16,16,May,2016,35,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+01/02/14,1,February,2014,49,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,20,21,55,680,420,1100
+30/05/16,30,May,2016,63,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,20,21,55,680,420,1100
+28/06/14,28,June,2014,43,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+04/05/14,4,May,2014,45,Adults (35-64),F,France,Hauts de Seine,Hitch Rack - 4-Bike,10,45,120,750,450,1200
+02/05/16,2,May,2016,52,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,9,45,120,675,405,1080
+25/09/13,25,September,2013,40,Adults (35-64),F,Germany,Hamburg,Hydration Pack - 70 oz.,22,21,55,748,462,1210
+10/10/15,10,October,2015,57,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",31,13,35,682,403,1085
+17/02/16,17,February,2016,37,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",31,13,35,682,403,1085
+23/03/16,23,March,2016,41,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",31,13,35,682,403,1085
+04/04/16,4,April,2016,42,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",31,13,35,682,403,1085
+07/04/16,7,April,2016,53,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",31,13,35,682,403,1085
+30/08/15,30,August,2015,63,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",32,13,35,704,416,1120
+07/10/15,7,October,2015,41,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Black",32,13,35,704,416,1120
+19/10/15,19,October,2015,44,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",32,13,35,704,416,1120
+08/11/15,8,November,2015,38,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",32,13,35,704,416,1120
+18/08/15,18,August,2015,47,Adults (35-64),F,United States,Oregon,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+18/09/15,18,September,2015,37,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,20,21,55,680,420,1100
+01/02/16,1,February,2016,36,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,20,21,55,680,420,1100
+10/05/16,10,May,2016,46,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,20,21,55,680,420,1100
+04/08/13,4,August,2013,53,Adults (35-64),F,United States,Washington,Hydration Pack - 70 oz.,30,21,55,1020,630,1650
+07/01/16,7,January,2016,52,Adults (35-64),F,Germany,Saarland,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+11/10/13,11,October,2013,43,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+09/12/13,9,December,2013,35,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+16/01/14,16,January,2014,52,Adults (35-64),F,Canada,British Columbia,HL Mountain Tire,30,13,35,660,390,1050
+10/02/14,10,February,2014,53,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+03/04/14,3,April,2014,56,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+08/04/14,8,April,2014,41,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+28/04/14,28,April,2014,46,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+05/06/14,5,June,2014,55,Adults (35-64),F,Germany,Brandenburg,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+12/06/14,12,June,2014,46,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+21/07/14,21,July,2014,38,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+03/11/15,3,November,2015,39,Adults (35-64),F,Canada,British Columbia,HL Mountain Tire,30,13,35,660,390,1050
+28/04/16,28,April,2016,46,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+02/08/13,2,August,2013,41,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+16/05/14,16,May,2014,35,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+10/07/13,10,July,2013,44,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+23/08/13,23,August,2013,38,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+30/08/13,30,August,2013,38,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+03/09/13,3,September,2013,37,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+17/11/13,17,November,2013,53,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+05/12/13,5,December,2013,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+12/12/13,12,December,2013,41,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+17/02/14,17,February,2014,37,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+21/02/14,21,February,2014,36,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+04/04/14,4,April,2014,42,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+15/04/14,15,April,2014,49,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+05/05/14,5,May,2014,37,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+20/07/14,20,July,2014,46,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+31/07/14,31,July,2014,55,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+05/12/15,5,December,2015,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+21/02/16,21,February,2016,36,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+26/02/16,26,February,2016,45,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",31,13,35,682,403,1085
+15/04/16,15,April,2016,58,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+30/07/16,30,July,2016,35,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+31/07/16,31,July,2016,55,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+16/08/13,16,August,2013,42,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,19,21,55,646,399,1045
+01/12/13,1,December,2013,40,Adults (35-64),F,France,Essonne,Hydration Pack - 70 oz.,20,21,55,680,420,1100
+25/09/15,25,September,2015,49,Adults (35-64),F,France,Hauts de Seine,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+15/11/15,15,November,2015,45,Adults (35-64),F,United States,Oregon,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+07/06/16,7,June,2016,57,Adults (35-64),F,United States,California,HL Road Tire,31,12,33,651,372,1023
+23/12/13,23,December,2013,38,Adults (35-64),F,Australia,Queensland,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+17/11/13,17,November,2013,61,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+10/01/14,10,January,2014,47,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+25/03/14,25,March,2014,48,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+12/08/15,12,August,2015,43,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+11/10/15,11,October,2015,43,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+10/11/15,10,November,2015,41,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+17/11/15,17,November,2015,61,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+21/01/16,21,January,2016,44,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+04/02/16,4,February,2016,53,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+25/03/16,25,March,2016,48,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+30/09/15,30,September,2015,55,Adults (35-64),F,Germany,Hamburg,"Sport-100 Helmet, Blue",32,13,35,704,416,1120
+18/09/13,18,September,2013,37,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,19,21,55,646,399,1045
+19/06/14,19,June,2014,41,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,19,21,55,646,399,1045
+19/06/16,19,June,2016,41,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,19,21,55,646,399,1045
+19/08/13,19,August,2013,45,Adults (35-64),F,United Kingdom,England,HL Mountain Tire,30,13,35,660,390,1050
+30/08/13,30,August,2013,63,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+02/09/13,2,September,2013,46,Adults (35-64),F,France,Essonne,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+07/10/13,7,October,2013,41,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+10/10/13,10,October,2013,57,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+19/10/13,19,October,2013,44,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+30/10/13,30,October,2013,43,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+08/11/13,8,November,2013,38,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+21/11/13,21,November,2013,62,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+28/11/13,28,November,2013,53,Adults (35-64),F,France,Essonne,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+18/12/13,18,December,2013,36,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+06/01/14,6,January,2014,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+11/01/14,11,January,2014,57,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+24/01/14,24,January,2014,55,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+26/02/14,26,February,2014,45,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+09/03/14,9,March,2014,47,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+23/03/14,23,March,2014,41,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+07/04/14,7,April,2014,53,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+12/04/14,12,April,2014,42,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+14/04/14,14,April,2014,35,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+28/04/14,28,April,2014,40,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",30,13,35,660,390,1050
+11/06/14,11,June,2014,52,Adults (35-64),F,France,Essonne,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+14/06/14,14,June,2014,35,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+20/06/14,20,June,2014,52,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+23/06/14,23,June,2014,40,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+30/07/14,30,July,2014,35,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+02/09/15,2,September,2015,46,Adults (35-64),F,France,Essonne,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+03/09/15,3,September,2015,37,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+14/09/15,14,September,2015,63,Adults (35-64),F,United States,California,HL Mountain Tire,29,13,35,638,377,1015
+28/10/15,28,October,2015,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+30/10/15,30,October,2015,43,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+28/11/15,28,November,2015,53,Adults (35-64),F,France,Essonne,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+20/01/16,20,January,2016,40,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+22/02/16,22,February,2016,36,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+28/02/16,28,February,2016,35,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+12/04/16,12,April,2016,42,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+05/05/16,5,May,2016,37,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+05/06/16,5,June,2016,36,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,23,21,55,782,483,1265
+16/06/16,16,June,2016,42,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+04/08/15,4,August,2015,53,Adults (35-64),F,United States,Washington,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+12/05/16,12,May,2016,43,Adults (35-64),F,United States,Washington,Hydration Pack - 70 oz.,28,21,55,952,588,1540
+07/06/14,7,June,2014,57,Adults (35-64),F,United States,California,HL Road Tire,30,12,33,630,360,990
+12/08/13,12,August,2013,43,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Red",28,13,35,616,364,980
+19/08/13,19,August,2013,41,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+03/11/13,3,November,2013,39,Adults (35-64),F,Canada,British Columbia,HL Mountain Tire,28,13,35,616,364,980
+30/11/13,30,November,2013,47,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+04/02/14,4,February,2014,53,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+11/03/14,11,March,2014,49,Adults (35-64),F,Australia,Victoria,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+19/08/15,19,August,2015,41,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+27/08/15,27,August,2015,48,Adults (35-64),F,Germany,Hamburg,HL Mountain Tire,31,13,35,682,403,1085
+30/08/15,30,August,2015,48,Adults (35-64),F,Germany,Hamburg,HL Mountain Tire,31,13,35,682,403,1085
+10/01/16,10,January,2016,47,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+01/02/16,1,February,2016,40,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",28,13,35,616,364,980
+12/06/16,12,June,2016,46,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Red",28,13,35,616,364,980
+23/12/15,23,December,2015,38,Adults (35-64),F,Australia,Queensland,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+04/06/16,4,June,2016,60,Adults (35-64),F,Australia,Queensland,Hydration Pack - 70 oz.,24,21,55,816,504,1320
+28/06/16,28,June,2016,43,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,19,21,55,646,399,1045
+25/09/13,25,September,2013,49,Adults (35-64),F,France,Hauts de Seine,Hydration Pack - 70 oz.,20,21,55,680,420,1100
+07/01/14,7,January,2014,52,Adults (35-64),F,Germany,Saarland,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+04/07/14,4,July,2014,49,Adults (35-64),F,France,Seine (Paris),Hydration Pack - 70 oz.,25,21,55,850,525,1375
+25/09/15,25,September,2015,40,Adults (35-64),F,Germany,Hamburg,Hydration Pack - 70 oz.,20,21,55,680,420,1100
+17/07/13,17,July,2013,45,Adults (35-64),F,United Kingdom,England,HL Mountain Tire,29,13,35,638,377,1015
+04/09/13,4,September,2013,46,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+03/10/13,3,October,2013,45,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+23/10/13,23,October,2013,36,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+12/11/13,12,November,2013,53,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+14/11/13,14,November,2013,47,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+22/12/13,22,December,2013,57,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+20/01/14,20,January,2014,44,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+22/02/14,22,February,2014,52,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+13/06/14,13,June,2014,38,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+23/10/15,23,October,2015,36,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+16/11/15,16,November,2015,39,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+17/02/16,17,February,2016,42,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+13/06/16,13,June,2016,38,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+21/07/13,21,July,2013,50,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",28,13,35,616,364,980
+16/08/13,16,August,2013,51,Adults (35-64),F,Australia,Queensland,All-Purpose Bike Stand,8,59,159,800,472,1272
+19/09/13,19,September,2013,37,Adults (35-64),F,Australia,Queensland,All-Purpose Bike Stand,8,59,159,800,472,1272
+28/10/13,28,October,2013,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",28,13,35,616,364,980
+06/01/14,6,January,2014,40,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",28,13,35,616,364,980
+22/02/14,22,February,2014,36,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",28,13,35,616,364,980
+28/02/14,28,February,2014,35,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",28,13,35,616,364,980
+15/04/14,15,April,2014,58,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",28,13,35,616,364,980
+21/04/14,21,April,2014,43,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",28,13,35,616,364,980
+16/06/14,16,June,2014,42,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",28,13,35,616,364,980
+19/07/14,19,July,2014,37,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",28,13,35,616,364,980
+16/08/15,16,August,2015,51,Adults (35-64),F,Australia,Queensland,All-Purpose Bike Stand,8,59,159,800,472,1272
+12/12/15,12,December,2015,46,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",28,13,35,616,364,980
+21/04/16,21,April,2016,43,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",28,13,35,616,364,980
+23/04/16,23,April,2016,36,Adults (35-64),F,Australia,Queensland,All-Purpose Bike Stand,8,59,159,800,472,1272
+04/05/16,4,May,2016,38,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+14/06/16,14,June,2016,35,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",28,13,35,616,364,980
+17/06/16,17,June,2016,46,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",28,13,35,616,364,980
+20/06/16,20,June,2016,52,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+05/06/14,5,June,2014,36,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,22,21,55,748,462,1210
+02/02/16,2,February,2016,40,Adults (35-64),F,United States,Washington,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+08/09/13,8,September,2013,38,Adults (35-64),F,Canada,British Columbia,All-Purpose Bike Stand,6,59,159,600,354,954
+01/10/13,1,October,2013,57,Adults (35-64),F,United States,California,HL Road Tire,29,12,33,609,348,957
+11/01/14,11,January,2014,57,Adults (35-64),F,United States,California,HL Road Tire,29,12,33,609,348,957
+28/02/14,28,February,2014,46,Adults (35-64),F,United Kingdom,England,HL Road Tire,30,12,33,630,360,990
+18/07/14,18,July,2014,40,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,8,45,120,600,360,960
+06/09/15,6,September,2015,45,Adults (35-64),F,Canada,British Columbia,Hitch Rack - 4-Bike,8,45,120,600,360,960
+28/02/16,28,February,2016,46,Adults (35-64),F,United Kingdom,England,HL Road Tire,30,12,33,630,360,990
+03/06/16,3,June,2016,57,Adults (35-64),F,United States,California,HL Road Tire,29,12,33,609,348,957
+26/01/16,26,January,2016,41,Adults (35-64),F,United States,California,ML Mountain Tire,32,11,30,608,352,960
+27/08/13,27,August,2013,48,Adults (35-64),F,Germany,Hamburg,HL Mountain Tire,30,13,35,660,390,1050
+27/08/13,27,August,2013,48,Adults (35-64),F,Germany,Hamburg,HL Mountain Tire,30,13,35,660,390,1050
+30/09/13,30,September,2013,55,Adults (35-64),F,Germany,Hamburg,"Sport-100 Helmet, Blue",30,13,35,660,390,1050
+20/01/14,20,January,2014,57,Adults (35-64),F,Germany,Hessen,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+05/05/14,5,May,2014,37,Adults (35-64),F,Germany,Hessen,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+18/01/16,18,January,2016,64,Adults (35-64),F,Germany,Hamburg,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+20/01/16,20,January,2016,57,Adults (35-64),F,Germany,Hessen,"Sport-100 Helmet, Black",30,13,35,660,390,1050
+03/08/13,3,August,2013,37,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Black",27,13,35,594,351,945
+03/11/13,3,November,2013,39,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",27,13,35,594,351,945
+10/11/13,10,November,2013,41,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+21/01/14,21,January,2014,44,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",27,13,35,594,351,945
+11/05/14,11,May,2014,54,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",27,13,35,594,351,945
+21/05/14,21,May,2014,53,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+03/11/15,3,November,2015,39,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",27,13,35,594,351,945
+10/02/16,10,February,2016,53,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+15/03/16,15,March,2016,47,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+21/07/16,21,July,2016,38,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+13/08/13,13,August,2013,37,Adults (35-64),F,Australia,Victoria,Hydration Pack - 70 oz.,26,21,55,884,546,1430
+11/03/16,11,March,2016,49,Adults (35-64),F,Australia,Victoria,Hydration Pack - 70 oz.,26,21,55,884,546,1430
+16/03/16,16,March,2016,48,Adults (35-64),F,Australia,Victoria,Hydration Pack - 70 oz.,26,21,55,884,546,1430
+24/07/15,24,July,2015,51,Adults (35-64),F,France,Garonne (Haute),Hydration Pack - 70 oz.,19,21,55,646,399,1045
+11/08/13,11,August,2013,48,Adults (35-64),F,United States,California,All-Purpose Bike Stand,6,59,159,600,354,954
+29/08/13,29,August,2013,40,Adults (35-64),F,United States,California,All-Purpose Bike Stand,6,59,159,600,354,954
+06/04/14,6,April,2014,38,Adults (35-64),F,United States,California,All-Purpose Bike Stand,6,59,159,600,354,954
+22/05/14,22,May,2014,37,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,8,45,120,600,360,960
+11/08/15,11,August,2015,48,Adults (35-64),F,United States,California,All-Purpose Bike Stand,6,59,159,600,354,954
+15/12/15,15,December,2015,53,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,8,45,120,600,360,960
+22/05/16,22,May,2016,37,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,8,45,120,600,360,960
+05/06/16,5,June,2016,40,Adults (35-64),F,United States,California,Hitch Rack - 4-Bike,8,45,120,600,360,960
+21/09/13,21,September,2013,37,Adults (35-64),F,United States,Oregon,Hydration Pack - 70 oz.,22,21,55,748,462,1210
+22/06/16,22,June,2016,38,Adults (35-64),F,United States,Oregon,Hydration Pack - 70 oz.,22,21,55,748,462,1210
+28/08/13,28,August,2013,35,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+14/09/13,14,September,2013,43,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+29/12/13,29,December,2013,59,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",28,13,35,616,364,980
+03/02/14,3,February,2014,37,Adults (35-64),F,France,Essonne,"Sport-100 Helmet, Red",28,13,35,616,364,980
+16/02/14,16,February,2014,41,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Black",28,13,35,616,364,980
+07/03/14,7,March,2014,45,Adults (35-64),F,France,Garonne (Haute),"Sport-100 Helmet, Red",29,13,35,638,377,1015
+19/08/15,19,August,2015,45,Adults (35-64),F,United Kingdom,England,HL Mountain Tire,28,13,35,616,364,980
+04/09/15,4,September,2015,46,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",28,13,35,616,364,980
+14/09/15,14,September,2015,43,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+03/10/15,3,October,2015,45,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+14/11/15,14,November,2015,47,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",28,13,35,616,364,980
+22/12/15,22,December,2015,57,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Black",28,13,35,616,364,980
+20/01/16,20,January,2016,44,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",28,13,35,616,364,980
+03/02/16,3,February,2016,37,Adults (35-64),F,France,Essonne,"Sport-100 Helmet, Red",28,13,35,616,364,980
+16/02/16,16,February,2016,41,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Black",28,13,35,616,364,980
+22/02/16,22,February,2016,52,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+13/04/16,13,April,2016,53,Adults (35-64),F,United Kingdom,England,HL Mountain Tire,28,13,35,616,364,980
+28/04/16,28,April,2016,40,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",28,13,35,616,364,980
+12/09/13,12,September,2013,45,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",27,13,35,594,351,945
+14/09/13,14,September,2013,63,Adults (35-64),F,United States,California,HL Mountain Tire,27,13,35,594,351,945
+05/11/13,5,November,2013,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",27,13,35,594,351,945
+20/01/14,20,January,2014,40,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",27,13,35,594,351,945
+28/02/14,28,February,2014,40,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",27,13,35,594,351,945
+02/03/14,2,March,2014,37,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",27,13,35,594,351,945
+04/05/14,4,May,2014,38,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+21/05/14,21,May,2014,41,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+17/07/15,17,July,2015,36,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",27,13,35,594,351,945
+21/07/15,21,July,2015,50,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",27,13,35,594,351,945
+23/08/15,23,August,2015,38,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+30/08/15,30,August,2015,38,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+05/11/15,5,November,2015,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",27,13,35,594,351,945
+05/11/15,5,November,2015,41,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+21/11/15,21,November,2015,62,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",27,13,35,594,351,945
+11/01/16,11,January,2016,57,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+09/03/16,9,March,2016,47,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+14/04/16,14,April,2016,35,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",27,13,35,594,351,945
+31/05/16,31,May,2016,54,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",27,13,35,594,351,945
+19/06/16,19,June,2016,42,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",27,13,35,594,351,945
+23/06/16,23,June,2016,40,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",27,13,35,594,351,945
+28/06/16,28,June,2016,42,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",27,13,35,594,351,945
+18/02/14,18,February,2014,52,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,18,21,55,612,378,990
+29/04/14,29,April,2014,40,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,18,21,55,612,378,990
+06/03/14,6,March,2014,49,Adults (35-64),F,United Kingdom,England,HL Road Tire,29,12,33,609,348,957
+31/05/14,31,May,2014,49,Adults (35-64),F,United Kingdom,England,HL Road Tire,29,12,33,609,348,957
+06/02/16,6,February,2016,46,Adults (35-64),F,United Kingdom,England,HL Road Tire,29,12,33,609,348,957
+03/06/14,3,June,2014,57,Adults (35-64),F,United States,California,HL Road Tire,28,12,33,588,336,924
+30/12/13,30,December,2013,36,Adults (35-64),F,Germany,Bayern,Hydration Pack - 70 oz.,17,21,55,578,357,935
+02/02/14,2,February,2014,40,Adults (35-64),F,United States,Washington,Hydration Pack - 70 oz.,26,21,55,884,546,1430
+12/05/14,12,May,2014,43,Adults (35-64),F,United States,Washington,Hydration Pack - 70 oz.,26,21,55,884,546,1430
+05/10/15,5,October,2015,41,Adults (35-64),F,Canada,British Columbia,Hydration Pack - 70 oz.,17,21,55,578,357,935
+30/08/13,30,August,2013,48,Adults (35-64),F,Germany,Hamburg,HL Mountain Tire,29,13,35,638,377,1015
+18/01/14,18,January,2014,64,Adults (35-64),F,Germany,Hamburg,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+19/03/14,19,March,2014,41,Adults (35-64),F,Germany,Hamburg,"Sport-100 Helmet, Red",29,13,35,638,377,1015
+14/03/16,14,March,2016,44,Adults (35-64),F,Germany,Hessen,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+05/05/16,5,May,2016,37,Adults (35-64),F,Germany,Hessen,"Sport-100 Helmet, Black",29,13,35,638,377,1015
+07/05/16,7,May,2016,38,Adults (35-64),F,Germany,Hamburg,"Sport-100 Helmet, Blue",29,13,35,638,377,1015
+12/11/13,12,November,2013,50,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+02/08/15,2,August,2015,41,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+12/09/15,12,September,2015,51,Adults (35-64),F,Australia,New South Wales,Hydration Pack - 70 oz.,21,21,55,714,441,1155
+03/11/13,3,November,2013,51,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",26,13,35,572,338,910
+03/01/14,3,January,2014,39,Adults (35-64),F,Canada,British Columbia,HL Mountain Tire,26,13,35,572,338,910
+01/02/14,1,February,2014,40,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",26,13,35,572,338,910
+20/02/14,20,February,2014,40,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",26,13,35,572,338,910
+26/05/14,26,May,2014,37,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",26,13,35,572,338,910
+03/08/15,3,August,2015,37,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Black",26,13,35,572,338,910
+12/10/15,12,October,2015,44,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",26,13,35,572,338,910
+03/11/15,3,November,2015,51,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",26,13,35,572,338,910
+02/01/16,2,January,2016,36,Adults (35-64),F,Germany,Bayern,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+05/05/16,5,May,2016,42,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+11/05/16,11,May,2016,54,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",26,13,35,572,338,910
+20/07/16,20,July,2016,48,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+02/02/14,2,February,2014,42,Adults (35-64),F,France,Yveline,Hydration Pack - 70 oz.,27,21,55,918,567,1485
+20/02/14,20,February,2014,40,Adults (35-64),F,France,Essonne,All-Purpose Bike Stand,6,59,159,600,354,954
+09/03/14,9,March,2014,59,Adults (35-64),F,United Kingdom,England,All-Purpose Bike Stand,6,59,159,600,354,954
+17/08/15,17,August,2015,36,Adults (35-64),F,United Kingdom,England,All-Purpose Bike Stand,6,59,159,600,354,954
+05/06/16,5,June,2016,39,Adults (35-64),F,United Kingdom,England,All-Purpose Bike Stand,6,59,159,600,354,954
+19/08/13,19,August,2013,56,Adults (35-64),F,Canada,British Columbia,ML Mountain Tire,30,11,30,570,330,900
+16/03/14,16,March,2014,48,Adults (35-64),F,Australia,Victoria,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+13/08/15,13,August,2015,37,Adults (35-64),F,Australia,Victoria,Hydration Pack - 70 oz.,25,21,55,850,525,1375
+19/08/15,19,August,2015,56,Adults (35-64),F,Canada,British Columbia,ML Mountain Tire,30,11,30,570,330,900
+27/08/15,27,August,2015,57,Adults (35-64),F,United States,California,Hydration Pack - 70 oz.,17,21,55,578,357,935
+30/08/13,30,August,2013,50,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Black",27,13,35,594,351,945
+13/09/13,13,September,2013,39,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",27,13,35,594,351,945
+16/11/13,16,November,2013,39,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",27,13,35,594,351,945
+17/02/14,17,February,2014,42,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+18/03/14,18,March,2014,38,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",27,13,35,594,351,945
+13/04/14,13,April,2014,53,Adults (35-64),F,United Kingdom,England,HL Mountain Tire,27,13,35,594,351,945
+03/06/14,3,June,2014,42,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+13/06/14,13,June,2014,40,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",27,13,35,594,351,945
+17/07/15,17,July,2015,45,Adults (35-64),F,United Kingdom,England,HL Mountain Tire,27,13,35,594,351,945
+21/10/15,21,October,2015,38,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",27,13,35,594,351,945
+12/11/15,12,November,2015,53,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+29/12/15,29,December,2015,59,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",27,13,35,594,351,945
+18/03/16,18,March,2016,38,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",27,13,35,594,351,945
+11/06/16,11,June,2016,52,Adults (35-64),F,France,Essonne,"Sport-100 Helmet, Blue",27,13,35,594,351,945
+15/06/16,15,June,2016,51,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Black",27,13,35,594,351,945
+17/09/13,17,September,2013,60,Adults (35-64),F,Australia,New South Wales,All-Purpose Bike Stand,7,59,159,700,413,1113
+17/09/15,17,September,2015,60,Adults (35-64),F,Australia,New South Wales,All-Purpose Bike Stand,7,59,159,700,413,1113
+17/07/13,17,July,2013,36,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",26,13,35,572,338,910
+03/11/13,3,November,2013,49,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+05/11/13,5,November,2013,41,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+07/11/13,7,November,2013,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",26,13,35,572,338,910
+21/11/13,21,November,2013,44,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+29/11/13,29,November,2013,43,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",26,13,35,572,338,910
+12/12/13,12,December,2013,46,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",26,13,35,572,338,910
+11/01/14,11,January,2014,47,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+11/05/14,11,May,2014,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",26,13,35,572,338,910
+31/05/14,31,May,2014,54,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",26,13,35,572,338,910
+17/06/14,17,June,2014,46,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",26,13,35,572,338,910
+28/06/14,28,June,2014,42,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",26,13,35,572,338,910
+07/11/15,7,November,2015,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",26,13,35,572,338,910
+28/11/15,28,November,2015,59,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",26,13,35,572,338,910
+18/12/15,18,December,2015,36,Adults (35-64),F,United States,California,"Sport-100 Helmet, Black",26,13,35,572,338,910
+06/01/16,6,January,2016,39,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",26,13,35,572,338,910
+06/01/16,6,January,2016,40,Adults (35-64),F,United States,California,"Sport-100 Helmet, Red",26,13,35,572,338,910
+24/01/16,24,January,2016,55,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+15/02/16,15,February,2016,49,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+04/04/16,4,April,2016,63,Adults (35-64),F,United States,California,HL Mountain Tire,26,13,35,572,338,910
+21/05/16,21,May,2016,41,Adults (35-64),F,United States,California,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+04/07/16,4,July,2016,49,Adults (35-64),F,France,Seine (Paris),Hydration Pack - 70 oz.,23,21,55,782,483,1265
+24/07/13,24,July,2013,51,Adults (35-64),F,France,Garonne (Haute),Hydration Pack - 70 oz.,18,21,55,612,378,990
+26/01/14,26,January,2014,41,Adults (35-64),F,United States,California,ML Mountain Tire,30,11,30,570,330,900
+22/02/14,22,February,2014,41,Adults (35-64),F,United States,California,ML Mountain Tire,30,11,30,570,330,900
+06/02/14,6,February,2014,46,Adults (35-64),F,United Kingdom,England,HL Road Tire,28,12,33,588,336,924
+11/05/14,11,May,2014,49,Adults (35-64),F,United Kingdom,England,HL Road Tire,28,12,33,588,336,924
+15/09/15,15,September,2015,46,Adults (35-64),F,United Kingdom,England,HL Road Tire,28,12,33,588,336,924
+30/01/14,30,January,2014,57,Adults (35-64),F,United States,California,HL Road Tire,27,12,33,567,324,891
+11/01/16,11,January,2016,57,Adults (35-64),F,United States,California,HL Road Tire,27,12,33,567,324,891
+21/07/13,21,July,2013,43,Adults (35-64),F,Germany,Hamburg,"Sport-100 Helmet, Red",28,13,35,616,364,980
+14/03/14,14,March,2014,44,Adults (35-64),F,Germany,Hessen,"Sport-100 Helmet, Black",28,13,35,616,364,980
+02/04/14,2,April,2014,35,Adults (35-64),F,Germany,Hessen,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+08/05/14,8,May,2014,51,Adults (35-64),F,Germany,Hessen,"Sport-100 Helmet, Red",28,13,35,616,364,980
+21/07/15,21,July,2015,43,Adults (35-64),F,Germany,Hamburg,"Sport-100 Helmet, Red",28,13,35,616,364,980
+12/10/15,12,October,2015,40,Adults (35-64),F,Germany,Hamburg,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+03/02/16,3,February,2016,51,Adults (35-64),F,France,Hauts de Seine,"Sport-100 Helmet, Blue",28,13,35,616,364,980
+11/04/16,11,April,2016,50,Adults (35-64),F,France,Hauts de Seine,"Sport-100 Helmet, Black",28,13,35,616,364,980
+07/09/13,7,September,2013,39,Adults (35-64),F,Canada,British Columbia,HL Mountain Tire,25,13,35,550,325,875
+11/12/13,11,December,2013,40,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",25,13,35,550,325,875
+24/12/13,24,December,2013,38,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",25,13,35,550,325,875
+06/01/14,6,January,2014,40,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",25,13,35,550,325,875
+24/02/14,24,February,2014,46,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Red",25,13,35,550,325,875
+15/03/14,15,March,2014,47,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",25,13,35,550,325,875
+06/04/14,6,April,2014,43,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Red",25,13,35,550,325,875
+23/04/14,23,April,2014,43,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Red",25,13,35,550,325,875
+29/05/14,29,May,2014,35,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",25,13,35,550,325,875
+20/07/14,20,July,2014,48,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",25,13,35,550,325,875
+02/10/15,2,October,2015,51,Adults (35-64),F,Canada,British Columbia,HL Mountain Tire,25,13,35,550,325,875
+30/11/15,30,November,2015,47,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",25,13,35,550,325,875
+01/12/15,1,December,2015,40,Adults (35-64),F,France,Essonne,Hydration Pack - 70 oz.,17,21,55,578,357,935
+10/12/15,10,December,2015,44,Adults (35-64),F,United Kingdom,England,Hydration Pack - 70 oz.,17,21,55,578,357,935
+24/12/15,24,December,2015,38,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Blue",25,13,35,550,325,875
+20/02/16,20,February,2016,40,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",25,13,35,550,325,875
+26/05/16,26,May,2016,37,Adults (35-64),F,Canada,British Columbia,"Sport-100 Helmet, Black",25,13,35,550,325,875
+05/06/16,5,June,2016,51,Adults (35-64),F,Australia,New South Wales,"Sport-100 Helmet, Black",31,13,35,682,403,1085
+10/07/16,10,July,2016,44,Adults (35-64),F,Australia,New South Wales,"Sport-100 Helmet, Black",31,13,35,682,403,1085
+19/04/14,19,April,2014,51,Adults (35-64),F,France,Garonne (Haute),HL Mountain Tire,27,13,35,594,351,945
+17/10/13,17,October,2013,50,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Black",26,13,35,572,338,910
+07/01/14,7,January,2014,62,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",26,13,35,572,338,910
+19/03/14,19,March,2014,35,Adults (35-64),F,France,Essonne,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+28/08/15,28,August,2015,35,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+13/06/16,13,June,2016,40,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Red",26,13,35,572,338,910
+17/06/16,17,June,2016,43,Adults (35-64),F,United Kingdom,England,"Sport-100 Helmet, Blue",26,13,35,572,338,910
+15/07/16,15,July,2016,53,Adults (35-64),F,United Kingdom,England,HL Mountain Tire,26,13,35,572,338,910
