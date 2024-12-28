@@ -1,0 +1,133 @@
+- Female employee studying field is marketing and she is over 30:
+
+SELECT `FirstName` , `LastName`
+FROM `employee1`
+WHERE `EducationField` = 'Marketing'
+AND `Age` >30
+AND `Gender` = 'Female'
+
+
+- Employee who's distance from home equal or greater than 35 should be provided a transportation fees:
+
+SELECT `FirstName`,`LastName` 
+FROM `employee1` 
+WHERE `DistanceFromHome (KM)`>= 35
+
+
+- the most highest paid employee in a certain job role (Sales Executive):
+
+SELECT CONCAT( `FirstName` , ' ', `LastName` ) AS 'FULL NAME', `JobRole` , MAX( `Salary` ) AS 'HIGHEST PAID'
+FROM `employee1`
+WHERE `JobRole` = 'Sales Executive'
+GROUP BY 'FULL NAME', `JobRole`
+
+
+
+- the most highest paid employee in each job role:
+
+WITH DiffJobRoles AS (
+    SELECT COUNT(DISTINCT JobRole) AS `JobRoleCount`, JobRole
+    FROM Employee1
+    GROUP BY JobRole
+)
+
+SELECT DiffJobRoles.JobRole, employee1.FirstName, employee1.LastName, MAX(employee1.Salary) AS 'Highest Salary'
+FROM DiffJobRoles
+JOIN Employee1 ON DiffJobRoles.JobRole = Employee1.JobRole
+GROUP BY DiffJobRoles.JobRole
+
+
+- Highest paid teams in the company:
+
+SELECT department, MAX(salary) AS 'Highest Salary'
+FROM Employee1
+GROUP BY department 
+ORDER BY department DESC
+
+
+- The company is downsizing so it wants to determine who are the employees above 50 with a high-paid salary, to take decisions wether to be expelled or not: 
+
+SELECT firstname, lastname,jobrole ,MAX(salary) AS 'Highly Paid', age
+FROM Employee1
+WHERE age >= 50
+GROUP BY firstname, lastname, jobrole
+ORDER BY 'Highly paid' DESC
+
+
+
+- The most department requires travelling costs based on highest travelling times:
+
+SELECT 	department, COUNT(businesstravel) AS 'no.of travels'
+FROM Employee1
+GROUP BY department
+ORDER BY 'no.of travels' DESC
+
+
+
+- The loyality incentives given for employees according to their spending years at the company:
+
+SELECT firstname, lastname, yearsatcompany, salary,
+       CASE yearsatcompany
+           WHEN  >= 5 THEN salary + (salary * 0.05)
+           WHEN  >= 7 THEN salary + (salary * 0.07)
+           WHEN  >= 10 THEN salary + (salary * 0.1)
+           ELSE salary
+       END AS "New salaries"
+FROM Employee1
+
+
+
+- Employee who spends overtime shift will get a bonus:
+
+SELECT firstname, lastname, overtime
+FROM Employee1
+WHERE overtime = 'Yes'
+ORDER BY firstname ASC
+
+-  Which marital status has the highest attrition:
+
+SELECT COUNT(CONCAT(firstname, ' ', lastname)) AS Fullname_Count,
+       COUNT(DISTINCT maritalstatus) AS Different_status,
+       maritalstatus,
+       overtime
+FROM Employee1
+WHERE attrition = 'Yes'
+GROUP BY maritalstatus
+ORDER BY Fullname_Count DESC;
+
+- Employees who starts with letter 'Z' and had a salary of 120000:
+
+SELECT firstname, lastname
+FROM Employee1
+WHERE firstname LIKE 'Z%'AND salary > 120000
+
+- The highest ethnicity takes the highest salary:
+
+SELECT ethnicity, COUNT(DISTINCT ethnicity) AS diff_ethnicity, SUM(salary) AS Total_Salary
+FROM Employee1
+GROUP BY ethnicity
+ORDER BY Total_Salary DESC
+
+- Average years for the employees in the company:
+
+SELECT AVG(yearsatcompany)
+FROM Employee1;
+
+- Who is the highest paid gender in the company:
+
+SELECT gender, COUNT(gender) AS diff_genders, SUM(salary) AS Total_Gender_Salary
+FROM Employee1
+GROUP BY gender
+ORDER BY Total_Gender_Salary DESC
+
+
+
+
+
+
+
+
+
+
+
+
